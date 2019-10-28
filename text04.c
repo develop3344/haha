@@ -6,4 +6,4 @@ int main(void)
     printf("i is %d\n",i);
     return 0;
 }
-/*求余数i*/
+/*求余数i*(%用于求余）*/
