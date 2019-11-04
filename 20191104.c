@@ -1,3 +1,4 @@
+/*阶梯电价 月用电量与电费 见41页下面题2*/
 #include <stdio.h>
 int main(void)
 {
