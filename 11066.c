@@ -1,4 +1,4 @@
-/*A B C D E 五种成绩 */
+/*百分制成绩转化为五分制成绩 A B C D E 五种成绩 */
 # include<stdio.h>
 int main(void)
 {
