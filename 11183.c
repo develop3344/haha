@@ -1,6 +1,6 @@
 /* 输出斐波那契Fibonacci 数列
 前两项都为1，从第三项起 为 前两项之和
-f(n)=f(n-1) */
+百度公式 */
 # include <stdio.h>
 int main (void)
 {
