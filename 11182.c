@@ -17,6 +17,7 @@ int main (void)
         f2 = f3;
 
         printf(" %d ",f3); /*注意 %d 与 引号 之间的空格 决定 f3 之间的距离*/
+        /*注意 此printf 处于循环中 */
     }
     printf("\n");
     return 0;
