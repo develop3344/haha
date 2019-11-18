@@ -3,7 +3,7 @@
 int main (void)
 {
     int i;
-    for(i='A';i<='Z';i++)
+    for(i='A';i<='Z';i++)   / 降序 *i='Z';i>='A';i-- */
     {
         printf("%c",i);
     }
